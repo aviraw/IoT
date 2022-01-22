@@ -32,7 +32,7 @@ AceButton button3(&config3);
 ButtonConfig config4;
 AceButton button4(&config4);
 ButtonConfig config5;
-AceButton button4(&config5);
+AceButton button5(&config5);
 
 void handleEvent1(AceButton*, uint8_t, uint8_t);
 void handleEvent2(AceButton*, uint8_t, uint8_t);
